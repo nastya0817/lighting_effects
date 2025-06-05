@@ -1,0 +1,16 @@
+D:\сем7\CompGraphics\opengl2\x64\Debug\opengl2.vcxproj.CopyComplete
+D:\сем7\CompGraphics\opengl2\x64\Debug\opengl2.exe
+D:\сем7\CompGraphics\opengl2\x64\Debug\glew32d.dll
+D:\сем7\CompGraphics\opengl2\x64\Debug\sfml-system-d-2.dll
+D:\сем7\CompGraphics\opengl2\x64\Debug\sfml-window-d-2.dll
+D:\сем7\CompGraphics\module3\r\x64\Debug\opengl2.exe
+D:\сем7\CompGraphics\module3\r\x64\Debug\opengl2.vcxproj.CopyComplete
+D:\сем7\CompGraphics\module3\r\x64\Debug\sfml-graphics-d-2.dll
+D:\сем7\CompGraphics\module3\r\x64\Debug\sfml-window-d-2.dll
+D:\сем7\CompGraphics\module3\r\x64\Debug\sfml-system-d-2.dll
+D:\сем7\CompGraphics\module3\r\x64\Debug\freetyped.dll
+D:\сем7\CompGraphics\module3\r\x64\Debug\zlibd1.dll
+D:\сем7\CompGraphics\module3\r\x64\Debug\bz2d.dll
+D:\сем7\CompGraphics\module3\r\x64\Debug\libpng16d.dll
+D:\сем7\CompGraphics\module3\r\x64\Debug\brotlidec.dll
+D:\сем7\CompGraphics\module3\r\x64\Debug\brotlicommon.dll

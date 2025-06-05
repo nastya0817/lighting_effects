@@ -1,0 +1,28 @@
+﻿  opengl2.cpp
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(279,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(441,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(575,55): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(599,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(600,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(680,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(681,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(736,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(854,67): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(1222,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(1234,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(1303,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(1304,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(1598,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(1707,40): warning C4305: =: усечение из "double" в "float"
+  Создание кода
+  124 of 1708 functions ( 7.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    57 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  opengl2.vcxproj -> D:\сем7\CompGraphics\module3\r\x64\Release\opengl2.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
