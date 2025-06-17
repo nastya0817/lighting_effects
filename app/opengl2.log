@@ -1,0 +1,31 @@
+﻿  opengl2.cpp
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(111,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(321,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(483,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(617,55): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(641,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(642,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(763,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(775,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(852,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(974,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(975,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(992,24): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(1023,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(1658,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(1670,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(1760,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(1761,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(3013,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\сем7\CompGraphics\module3\r\opengl2.cpp(3034,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 1839 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  opengl2.vcxproj -> D:\сем7\CompGraphics\module3\r\x64\Release\opengl2.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
